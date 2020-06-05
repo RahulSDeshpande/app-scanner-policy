@@ -8,6 +8,9 @@
 <p>Your continued use of our app will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.</p>
 <p>This policy is effective as of 5 June 2020.</p>
 
+<br>
+<br>
+
 <h2>Mojo Sys Terms of Service</h2>
 <h3>1. Terms</h3>
 <p>By accessing our app, Schezwan App Scanner, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing Schezwan App Scanner. The materials contained in Schezwan App Scanner are protected by applicable copyright and trademark law.</p>
